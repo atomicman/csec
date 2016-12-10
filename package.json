@@ -1,0 +1,25 @@
+{
+  "name": "csec",
+  "version": "1.0.0",
+  "description": "A man learns to fish",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomicman/csec.git"
+  },
+  "author": "atomicman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomicman/csec/issues"
+  },
+  "homepage": "https://github.com/atomicman/csec#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
